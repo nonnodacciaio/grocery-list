@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "grocery-list-57c0c"
+  },
+  "targets": {
+    "grocery-list-57c0c": {
+      "hosting": {
+        "grocery-list": [
+          "grocery-list-57c0c"
+        ]
+      }
+    }
   }
 }
