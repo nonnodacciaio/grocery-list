@@ -5,6 +5,7 @@
   },
   "hosting": [
     {
+      "site": "grocery-list",
       "public": "dist/grocery-list",
       "ignore": [
         "firebase.json",
@@ -13,6 +14,7 @@
       ]
     },
     {
+      "site": "grocery-list",
       "target": "grocery-list",
       "source": ".",
       "frameworksBackend": {}
